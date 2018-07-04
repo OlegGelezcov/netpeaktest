@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlWpfParser", "HtmlWpfParser\HtmlWpfParser.csproj", "{9F7BD16E-6A7F-4597-ADB0-2B309F6FA95D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlWpfParser.Tests", "HtmlWpfParser.Tests\HtmlWpfParser.Tests.csproj", "{9F13254A-E7CA-43BF-8E0C-1A641F5381DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F7BD16E-6A7F-4597-ADB0-2B309F6FA95D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7BD16E-6A7F-4597-ADB0-2B309F6FA95D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7BD16E-6A7F-4597-ADB0-2B309F6FA95D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7BD16E-6A7F-4597-ADB0-2B309F6FA95D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F13254A-E7CA-43BF-8E0C-1A641F5381DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F13254A-E7CA-43BF-8E0C-1A641F5381DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F13254A-E7CA-43BF-8E0C-1A641F5381DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F13254A-E7CA-43BF-8E0C-1A641F5381DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C05150-4EAA-4DFE-B35B-C60A3B0F3D5E}
+	EndGlobalSection
+EndGlobal
